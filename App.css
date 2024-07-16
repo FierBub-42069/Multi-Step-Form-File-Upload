@@ -1,0 +1,41 @@
+.button-container {
+  margin-top: 1rem !important;
+  display: flex !important;
+  gap: 1rem !important;
+  justify-content: flex-end !important;
+}
+
+.progress-label {
+  padding: 0px 7px 2px 7px;
+  border: 1px solid #000;
+  border-radius: 15px;
+  background-color: #e0e0e0e0;
+}
+
+h4 {
+  text-align: center;
+}
+
+textarea {
+  height: 6rem !important;
+  resize: none !important;
+}
+
+input, textarea {
+  margin-bottom: 15px !important;
+}
+
+.text-danger {
+  margin-top: -15px !important;
+  margin-bottom: 10px !important;
+}
+
+input[type="radio"] {
+  margin-right: 3px;
+}
+
+label {
+  margin-top: 5px;
+  margin-bottom: -5px !important;
+  margin-right: 15px;
+}

@@ -1,0 +1,23 @@
+body {
+  background-color: #f0f0f0f0;
+  font-family: 'Arial', sans-serif;
+}
+
+button {
+  padding: 5px 10px !important;
+  border-radius: 35px !important;
+}
+
+.App {
+  margin: 50px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  background-color: #ffffff;
+  padding: 35px !important;
+  border-radius: 50px;
+  box-shadow: 0 0 10px rgb(6, 6, 6, 0.7);
+}
